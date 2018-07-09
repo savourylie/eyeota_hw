@@ -1,0 +1,133 @@
+[
+    {
+        "org1": [
+            {
+                "paramName1": [
+                    {
+                        "paramVal1": {
+                            "segmentId": "seg_1234"
+                        }
+                    },
+                    {
+                        "paramVal2\nparamVal3\nparamVal4\nparamVal5": {
+                            "segmentId": "intr.edu"
+                        }
+                    },
+                    {
+                        "paramVal6": {
+                            "segmentId": "dem.infg.m"
+                        }
+                    },
+                    {
+                         "paramVal6": {
+                             "segmentId": "intr.heal"
+                         }
+                    },
+                    {
+                          "paramVal6": {
+                             "segmentId": "dem.infg.f"
+                          }
+                    }
+                ]
+            },
+            {
+                "testedu": [
+                    {
+                        "": {
+                            "segmentId": "n277"
+                        }
+                    }
+                ]
+            },
+            {
+                "sid": [
+                    {
+                        "": {
+                            "segmentId": "dem.life.expat"
+                        }
+                    }
+                ]
+            },
+            {
+                "gen": [
+                    {
+                        "Female": {
+                            "segmentId": "dem.g.f"
+                        }
+                    },
+                    {
+                        "Male": {
+                            "segmentId": "dem.g.m"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "org2": [
+            {
+                "paramName10": [
+                    {
+                        "paramVal1": {
+                            "segmentId": "seg_1234"
+                        }
+                    },
+                    {
+                        "paramVal2\nparamVal3\nparamVal4\nparamVal5": {
+                            "segmentId": "intr.edu"
+                        }
+                    },
+                    {
+                        "paramVal6": {
+                            "segmentId": "dem.infg.m"
+                        }
+                    },
+                    {
+                         "paramVal7": {
+                             "segmentId": "intr.heal"
+                         }
+                    },
+                    {
+                          "paramVal6": {
+                             "segmentId": "dem.infg.f"
+                          }
+                    }
+                ]
+            },
+            {
+                "testedu": [
+                    {
+                        "": {
+                            "segmentId": "n277"
+                        }
+                    }
+                ]
+            },
+            {
+                "sid": [
+                    {
+                        "": {
+                            "segmentId": "dem.life.expat"
+                        }
+                    }
+                ]
+            },
+            {
+                "gen": [
+                    {
+                        "Female": {
+                            "segmentId": "dem.g.f"
+                        }
+                    },
+                    {
+                        "Male": {
+                            "segmentId": "dem.g.m"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]
