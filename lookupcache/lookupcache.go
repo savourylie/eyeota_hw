@@ -10,7 +10,3 @@ type LookupCache interface {
 type SegmentConfig struct {
 	Id string
 }
-
-// func (cfg *SegmentConfig) GetId() string {
-//     return cfg.Id
-// }
