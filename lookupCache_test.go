@@ -8,6 +8,7 @@ import (
 	"./lookupcache"
 )
 
+// TODO: refactor data structure initialization with tear down method...not sure how to do it in Go
 func TestGetSegmentForOrgAndKeyTypeAndEmpty(t *testing.T) {
 	filename := "./data/test.json"
 	lc := initCache(filename)
